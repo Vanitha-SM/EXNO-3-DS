@@ -165,7 +165,7 @@ We use this categorical data encoding technique when the features are nominal(do
 ![image](https://github.com/Vanitha-SM/EXNO-3-DS/assets/119557985/36aa6277-64af-40a4-8ce8-5043b817d802)
 
 # RESULT:
-      Hence performing Feature Encoding and Transformation process was Successful.
+ Hence performing Feature Encoding and Transformation process was Successful.
 
 
        
